@@ -66,8 +66,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.1798079, y: 2.5966024, z: 1}
-  m_Center: {x: 0.0023134947, y: -2.204414, z: 0}
+  m_Size: {x: 0.1798079, y: 5.7332487, z: 1}
+  m_Center: {x: 0.0023134947, y: -3.772737, z: 0}
 --- !u!82 &1056056457601252406
 AudioSource:
   m_ObjectHideFlags: 0
@@ -250,7 +250,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6bab7ff1687ab6047a517e4b39031eaa,
         type: 3}
       propertyPath: m_Name
-      value: coin
+      value: Visual
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

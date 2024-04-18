@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        scoreTextField.text = "Score : " + score.ToString();
+        scoreTextField.text = ": " + score.ToString();
     }
 
     public void Addscore(){
